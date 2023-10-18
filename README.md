@@ -1,2 +1,2 @@
 # noise-reduction-in-web-data
-noise reduction in web data
+In this technique server will maintain log for each user access page and will be called as web log dataset. This dataset will have information such as User_id, access_page, date_time, URL. By analyzing such log data we can identify user interested pages in dynamic or static web pages. User interested pages can be found by seeing frequency of web page access by a single user and total time spend on each page.
